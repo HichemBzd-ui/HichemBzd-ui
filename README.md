@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Hichem 👋
 
-<!--
-**HichemBzd-ui/HichemBzd-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student from Algiers, Algeria, learning computer science with the goal of becoming an **AI engineer**.
 
-Here are some ideas to get you started:
+- 🎓 Currently taking **Harvard's CS50x: Introduction to Computer Science**
+- 🐍 Learning **Python**: my practice projects are in [python-mini-projects](https://github.com/HichemBzd-ui/python-mini-projects)
+- 🎨 Outside of code: graphic design (Photoshop, Illustrator) and photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+
+`Python` · `C` (CS50) · `Git & GitHub` · `Photoshop` · `Illustrator`
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/hichem-benbouzid-a56203448/)
