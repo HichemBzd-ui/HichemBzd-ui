@@ -1,8 +1,9 @@
 ## Hi, I'm Hichem 👋
 
-Student from Algiers, Algeria, learning computer science with the goal of becoming an **AI engineer**.
+Science & Technology student at **USTHB** in Algiers, Algeria.
+On the side, I'm learning programming, with the goal of becoming an **AI engineer**.
 
-- 🎓 Currently taking **Harvard's CS50x: Introduction to Computer Science**
+- 🎓 Taking **Harvard's CS50x: Introduction to Computer Science** online
 - 🐍 Learning **Python**: my practice projects are in [python-mini-projects](https://github.com/HichemBzd-ui/python-mini-projects)
 - 🎨 Outside of code: graphic design (Photoshop, Illustrator) and photography
 
